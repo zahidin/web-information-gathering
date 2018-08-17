@@ -25,4 +25,4 @@ $ pip install -r requirements.txt
 $ python web-information-gathering.py
 ```
 # Screenshot
-![alt text](https://drive.google.com/file/d/1lIOET89ivTfT2qye3rc4viHd0xjXii0v/view?usp=sharing)
+![alt text](https://www.imageupload.co.uk/images/2018/08/17/hutrifinal4.png)
