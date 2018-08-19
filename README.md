@@ -22,7 +22,7 @@ Use Python2.
 $ git clone https://github.com/zahidin/web-information-gathering.git
 $ cd web-information-gathering
 $ pip install -r requirements.txt
-$ python web-information-gathering.py
+$ python web_information_gathering.py
 ```
 # Screenshot
 ![alt text](https://www.imageupload.co.uk/images/2018/08/17/hutrifinal4.png)
