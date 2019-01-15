@@ -25,4 +25,4 @@ $ pip install -r requirements.txt
 $ python web_information_gathering.py
 ```
 # Screenshot
-![alt text](https://www.imageupload.co.uk/images/2018/08/17/hutrifinal4.png)
+![Image](https://imgdb.net/images/4785.png)
