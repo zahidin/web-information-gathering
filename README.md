@@ -1,5 +1,4 @@
-# Web Information Gathering
-## Special HUT RI KE-73
+# Web Information Gathering Special HUT RI KE-73
 
 # Menu:
 - Banner Grab
